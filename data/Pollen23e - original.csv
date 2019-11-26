@@ -1,0 +1,24 @@
+class,order,family,genus,species,flora do brasil
+Magnoliopsida,Fabales,Fabaceae,anadenanthera,anadenanthera colubrina,ok
+Magnoliophyta,Liliopsida,Arecales,arecaceae,arecaceae,ok
+Magnoliopsida,Lamiales,Bignoniaceae,Arrabidaea,arrabidaea florida,not_ok
+Magnoliopsida,Rosales,Urticaceae,Cecropia,cecropia pachystachya,ok
+Magnoliopsida,Asterales,Asteraceae,Chromolaena,chromolaena laevigata,ok
+Magnoliopsida,Myrtales,Combretaceae,combretum,combretum discolor,not_ok
+Magnoliopsida,Malpighiales,Euphorbiaceae,Croton,croton urucurana,ok
+Magnoliopsida,Fabales,Fabaceae,Dipteryx,dipteryx alata,ok
+Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus,eucalyptus sp,not_in
+Magnoliopsida,Gentianales,Rubiaceae,Faramea,faramea sp,ok
+Magnoliopsida,Lamiales,Lamiaceae,Hyptis,hyptis sp,ok
+Magnoliopsida,Malpighiales,Euphorbiaceae,mabea,mabea fistulifera,ok
+Magnoliopsida,Sapindales,Sapindaceae,Matayba,matayba guianensis,ok
+Magnoliopsida,Fabales,Fabaceae,Mimosa,mimosa distans,ok
+Magnoliopsida,Myrtales,Myrtaceae,Myrcia,myrcia sp,ok
+Magnoliopsida,Poales,poaceae,poaceae,poaceae,ok
+Magnoliopsida,Sapindales,Burseraceae,protium,protium sp,ok
+Magnoliopsida,Myrtales,Vochysiaceae,qualea,qualea multiflora,ok
+Magnoliopsida,Sapindales,Anacardiaceae,Schinus,schinus sp,ok
+Magnoliopsida,Fabales,Fabaceae,senegalia,senegalia plumosa,not_in
+Magnoliopsida,Sapindales,Sapindaceae,serjania,serjania sp,ok
+Magnoliopsida,Arecales,Arecaceae,syagrus,syagrus oleracea,ok
+Magnoliopsida,Asterales,Asteraceae,Tridax,tridax procumbens,ok
